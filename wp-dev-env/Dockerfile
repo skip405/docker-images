@@ -1,6 +1,6 @@
 FROM wordpress
 
-ENV X_DEBUG_VERSION 2.9.1
+ENV X_DEBUG_VERSION 2.9.8
 ENV PHPUNIT_VERSION 7
 
 # installing xdebug and enabling remote connections (e.g. PHPStorm)
